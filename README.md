@@ -8,7 +8,7 @@ The following inquiries were investigated
 2. Which database tools is the most demand today and the future?
 3. Which platform used is the most demand today and the future?
 4. Which most used webframe for now and also the future?
-5. How is the Developers demographic?
+5. How are the Developers demographic?
 
 To answer the inquiries that were set before, the data is process through data collection, data wrangling, exploratory data analysis,
 data visualization, and making dashboard. 
